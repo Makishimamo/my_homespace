@@ -18,20 +18,12 @@ header span {
   color: red;
 }
 
-header nav {
-
-}
-
 header nav a {
   padding: 50px;
 }
 
 header h1 {
   font-size: 5rem;
-}
-
-main {
-
 }
 
 div {
@@ -44,10 +36,6 @@ main section {
   flex-direction: row;
   padding: 15px;
   justify-content: space-between;
-}
-
-main section div img {
-  
 }
 
 .div1 {
